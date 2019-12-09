@@ -1,7 +1,7 @@
 require_relative "../skeleton/lib/00_tree_node.rb"
 require "byebug"
 class KnightPathFinder
-  
+  # hello
 
   #takes in a pos, and returns true/false if move is valid. (fits into our board)
   def self.valid_move?(pos) #[8,8] => false #[1,7]=> true
